@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEscola", "..\Source\Repos\ProjetoEscola\ProjetoEscola\ProjetoEscola.csproj", "{04C96B97-44BC-46BB-9017-57922DEBB549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro", "..\Source\Repos\ProjetoEscola\Cadastro\Cadastro.csproj", "{527D0821-8C7D-4A25-B68B-C9E27081903A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C96B97-44BC-46BB-9017-57922DEBB549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C96B97-44BC-46BB-9017-57922DEBB549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C96B97-44BC-46BB-9017-57922DEBB549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C96B97-44BC-46BB-9017-57922DEBB549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527D0821-8C7D-4A25-B68B-C9E27081903A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527D0821-8C7D-4A25-B68B-C9E27081903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527D0821-8C7D-4A25-B68B-C9E27081903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527D0821-8C7D-4A25-B68B-C9E27081903A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7650EF77-2940-4D43-82E0-F0C37D318958}
+	EndGlobalSection
+EndGlobal
